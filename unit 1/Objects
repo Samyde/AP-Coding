@@ -1,0 +1,11 @@
+# Object is a constuct for story data and functions
+
+class instaprofile:
+ def _init_(self,username,email,profileing,pw)
+    self ,username = username
+    self ,email= email
+    self ,profileing = profileing
+    self ,pw = pw 
+    self ,Bio = Bio
+    
+def reset
