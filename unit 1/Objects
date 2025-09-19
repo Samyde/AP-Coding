@@ -8,4 +8,82 @@ class instaprofile:
     self ,pw = pw 
     self ,Bio = Bio
     
-def reset
+
+
+class CarMaker:
+   def_init(self, color, seating, year, model): # initalizes the bluepruple
+   self,name = name 
+   self,color = color
+   self,seating = seating,
+   self,year = year
+   self,mode = model
+
+   def windshieldwippers(self): 
+     print('herse your car FAQS')# Fact
+     print('name'+ self,name)
+     print('name: ' + str(self,year))
+     print('miles:'+ str(self,miles))
+
+     def windsheldwippers(self):
+       print('when rasing turn on')
+
+       
+   def airbag(self):
+     print('when driving a certain speed anc a collsion happens; open')
+
+   def turnsignals(self, up, down,)
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class phone:
+  
+def _init_(self,name):
+  
+  self.name = name
+  
+  # create 3 functions the phone use
+
+
+  phoneA = phone ()
+
+
+  phoneA = phone ()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
